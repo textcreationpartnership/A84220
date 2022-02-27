@@ -1,0 +1,424 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact relation of two bloudy fights at sea, near Cherbrook (by the Dukedom of Normandy) between a squadron of English ships and a fleet of the French Kings, began (on the 12 of August 1650) and achieved by that valiant and worthy Capt. John Green, Commander of the ship Fortune (having but 22. guns) with his victorious proceedings, the particulars of the fight, and victory obtained against the French by the resolute engagement of the said Captain, sinking, and taking some, that are now brought into Plymouth, for the service of the Parliament and Common-weath of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84220</idno>
+            <idno type="STC">Wing E3701</idno>
+            <idno type="STC">Thomason E610_5</idno>
+            <idno type="STC">ESTC R206335</idno>
+            <idno type="EEBO-CITATION">99865507</idno>
+            <idno type="PROQUEST">99865507</idno>
+            <idno type="VID">117752</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84220)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117752)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 94:E610[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact relation of two bloudy fights at sea, near Cherbrook (by the Dukedom of Normandy) between a squadron of English ships and a fleet of the French Kings, began (on the 12 of August 1650) and achieved by that valiant and worthy Capt. John Green, Commander of the ship Fortune (having but 22. guns) with his victorious proceedings, the particulars of the fight, and victory obtained against the French by the resolute engagement of the said Captain, sinking, and taking some, that are now brought into Plymouth, for the service of the Parliament and Common-weath of England.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 26. 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Foreign relations --  France --  Early works to 1800.</term>
+               <term>France --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117752:1" rendition="simple:additions"/>
+            <p>AN EXACT RELATION OF Two Bloudy fights at SEA, near <hi>Cherbrook</hi> (by the Dukedom of <hi>Normandy</hi>) between a ſquadron of <hi>Engliſh</hi> ſhips and a fleet of the <hi>French</hi> Kings, began (on the 12 of <hi>Auguſt</hi> 1650) and achieved by that Valiant and worthy Capt. <hi>John Green,</hi> Commander of the ſhip <hi>Fortune</hi> (having but 22. Guns) with his Victo<g ref="char:EOLhyphen"/>rious proceedings, the particulars of the fight, and victo<g ref="char:EOLhyphen"/>ry obtained againſt the <hi>French</hi> by the reſolute engage<g ref="char:EOLhyphen"/>ment of ſaid Captain, ſinking, and taking ſome, that are now brought into <hi>Plymouth,</hi> for the ſervice of the <hi>Parliament</hi> and Common-wealth of <hi>England.</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of an armed ship or galleon flying the flag of Saint George</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. H, Auguſt</hi> 26. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:117752:2"/>
+            <pb facs="tcp:117752:2"/>
+            <head>TWO BLOUDY FIGHTS AT SEA,</head>
+            <lg>
+               <l>IT was upon the ſeventeenth of <hi>May</hi>
+               </l>
+               <l>that ſhip-<hi>Fortune</hi> began with <hi>French</hi> to her play,</l>
+               <l>A gallant fight againſt them did performe</l>
+               <l>but the ſecond Capt. and men adorne.</l>
+               <l>
+                  <hi>Hi ho the matter is great</hi>
+               </l>
+               <l>
+                  <hi>now Sea-men fight,</hi>
+               </l>
+               <l>
+                  <hi>for their Birth-Right</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Upon <hi>Auguſt</hi> the <hi>twelv'th</hi> day betime,</l>
+               <l>to valiant <hi>Green</hi> you may believe the ſame</l>
+               <pb n="2" facs="tcp:117752:3"/>
+               <l>In the morning to him ten ſhips appear</l>
+               <l>about <hi>Cherbrook,</hi> or at leaſt very near.</l>
+               <l>
+                  <hi>Hi ho the matter is great, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That is by <hi>France</hi> Dukedom of <hi>Normandy,</hi>
+               </l>
+               <l>and this ſhall be the ſecond Comedy,</l>
+               <l>That fatal <hi>Mars</hi> and then <hi>Saturn</hi> did play</l>
+               <l>a gallant game, <hi>Jupiters</hi> melody.</l>
+               <l>
+                  <hi>Hi ho the matter is great, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Was ſo roaring with Fulm'nating boults,</l>
+               <l>by ſeven a clock began to fly about's</l>
+               <l>In the morning, with ſuch continuance</l>
+               <l>that five brave ſhips were out of countenance.</l>
+               <l>
+                  <hi>Hi ho the matter is great, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And what were they but to him belonging</l>
+               <l>that now is call'd and tearmed the <hi>French</hi> King:</l>
+               <l>So vapouring was the <hi>Admiral</hi> that he had</l>
+               <l>in his main top the white Gallican Flag.</l>
+               <l>
+                  <hi>Hi ho the matter is</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Which regarded by the worthy <hi>John Green,</hi>
+               </l>
+               <l>ſaid in theſe words, afore they ſhould be ſeen</l>
+               <l>So our Birth-right to take from us away</l>
+               <l>in that manner, firſt Ile ſubmit to day</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>In poor <hi>Fortune,</hi> ſo was his own ſhip call'd,</l>
+               <l>and rather will I reduce my ſelf in thrall,</l>
+               <l>Then like a <hi>Mars</hi> inflam'd with valour</l>
+               <l>bad the <hi>French-man</hi> to ſtrik down his colour.</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>To low'r a main, or elſe with all his power</l>
+               <l>He would endeavour to ſink'm the ſame hour,</l>
+               <pb n="3" facs="tcp:117752:3"/>
+               <l>But the <hi>French</hi>-men truſting their multitude</l>
+               <l>of Guns, and ſhips with men were ſo delude</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>As many are, that have not for their guide</l>
+               <l>that Deity, which doth abhor all pride,</l>
+               <l>Did utterly, abſolutely deny</l>
+               <l>to low'r amain, nor unto him comply,</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Then a broad-ſide was preſently let fly</l>
+               <l>with violence, and ſo tempeſtuouſly</l>
+               <l>In a ſudden that redoubling the flame,</l>
+               <l>Admiral nor Vice could not indure the ſame;</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>But preſently braſ'd back came by the lee,</l>
+               <l>did not deſire ſuch furor more to ſee.</l>
+               <l>I muſt tell you alſo what was the matter,</l>
+               <l>'twas becauſe they were ſhot under water.</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>No ſooner then their working was perceive</l>
+               <l>Our Commander anon ſaid wee'l contrive,</l>
+               <l>Another trick for them aſſuredly,</l>
+               <l>by which we ſhall give them further anoy.</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Then ſuddenly about he cauſ'd to tack't,</l>
+               <l>and preſently the fore-ſheet to be ſlack't,</l>
+               <l>Keeping the wind of theſe proud <hi>Franciskins,</hi>
+               </l>
+               <l>for better means to come to drob their skins.</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Soon after this their beſt wings they did ſpread,</l>
+               <l>minding by that of us to be beray'd;</l>
+               <pb n="4" facs="tcp:117752:4"/>
+               <l>But the vertue of valour being Print</l>
+               <l>in <hi>Albionmen</hi> in no ways ſhall bruant.</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Indeed I muſt this much ſay paſſing by</l>
+               <l>that a concert we had never came nie,</l>
+               <l>Keeping far off in bloos did not delight</l>
+               <l>therefore his name ſhall be brought in the light.</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Hee's henniſh and Henely in his name</l>
+               <l>is not Cockiſh therefore deſerves no fame,</l>
+               <l>Little Hurly though his power was but little</l>
+               <l>in this conflight here he muſt have the title.</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Of a good hart, but what could he have done</l>
+               <l>of little Gunes matter half a dozine,</l>
+               <l>So we followed that audacious Navy</l>
+               <l>about 12 Leagues weſt-ward of <hi>Aldernie.</hi>
+               </l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>In that purſuit to <hi>Leward</hi> did appear</l>
+               <l>a luſty Ship which made us never fear,</l>
+               <l>Though it had been the beſt of all their guide</l>
+               <l>Captain nor men, for that were ne'r diſmaid.</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Happen it did that it was the good ſhip</l>
+               <l>rather, Frigot by name, called <hi>None-ſuch,</hi>
+               </l>
+               <l>Well regulated and well Command at firſt</l>
+               <l>but at the laſt, did not fulfill his truſt.</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Gently ſhe gave the Frigot cardinal</l>
+               <l>five full broad ſides, and no more that was all</l>
+               <pb n="5" facs="tcp:117752:4"/>
+               <l>Away ſhe went forſaking the fortune</l>
+               <l>to the hazard of wondring infortune.</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Driving weſtwards Frigots and mighty ſhips</l>
+               <l>the <hi>Cardinall</hi> and the reſt of his Sheeps,</l>
+               <l>Thirty two Guns of braſs he had alone</l>
+               <l>as for the others no leſs then forty one.</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Fulminating againſt them ſaid to ſaid</l>
+               <l>without turning our courſe was never ſtaid,</l>
+               <l>Muskets pettering, and our Guns as the Thunder.</l>
+               <l>of <hi>Jupiter</hi> kept ſuch noyſe that 'twas wonder.</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>To ſee a ſtrame of wood upon Tetis</l>
+               <l>that is no lye, I ſpeak but what it is,</l>
+               <l>The chips and ſplent of wood, down they did fly</l>
+               <l>as thick as hail diſcended from on high.</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>To tell the truth the foule was worth the Game</l>
+               <l>for within him in ſilver did contain,</l>
+               <l>Eight tuns or more, as very credibly</l>
+               <l>we were atteſt ſo well aſſuredly.</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>That if <hi>Millemy</hi> had the <hi>Non-ſuch</hi> imploy'd</l>
+               <l>this great treaſure in our hands ſhould abide,</l>
+               <l>And the terror hereafter ſhould remain</l>
+               <l>upon our foes, and unto us the gaime.</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>At laſt this much for our Concert Henely</l>
+               <l>came up for ſhame, and gave them verily,</l>
+               <l>Few pretty blows, had he done firſt alike,</l>
+               <l>we had obtain'd victory never like.</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <pb n="6" facs="tcp:117752:5"/>
+            <lg>
+               <l>Who interrupt at laſt this gallant fight,</l>
+               <l>none of our friends, but the child of the night,</l>
+               <l>Obſcurity, and the darkneſs her ſiſter</l>
+               <l>came upon us, and bad us to deſiſt her.</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>To the great grief of all the Officers</l>
+               <l>both great and ſmall, Sea-men and Marriners,</l>
+               <l>Who as Lyons moſt unanimouſly,</l>
+               <l>gallantly fought worthy to be employ.</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>All in good ſhips having the ſole Command,</l>
+               <l>in ſeveral their vertue that demand</l>
+               <l>Worthy I ſay, but ne'r a one willing,</l>
+               <l>To abandon him nam'd at beginning.</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Had he command upon the youngeſt horſe</l>
+               <l>that <hi>Tetis</hi> hath and lying up old Harth.</l>
+               <l>Young horſe I ſay on the new Friget,</l>
+               <l>within few days great honour he would get,</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>To thish Nation, ſo magnanimous heart</l>
+               <l>he hath in him, and this ſhall be his part,</l>
+               <l>Capt. <hi>Mildmay,</hi> alas 'twas no victory</l>
+               <l>by which you can obtain a jot of glory,</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Nor to triumph for a little Friget</l>
+               <l>that there you took, and by our means you get;</l>
+               <l>But right valour had herein conſiſt,</l>
+               <l>if after that you had come to aſſiſt,</l>
+               <l>
+                  <hi>Hi ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Worthy <hi>John Green</hi> againſt the Admiral,</l>
+               <l>we had carried the ſhips treaſure and all</l>
+               <l>Home to <hi>England,</hi> for ſatisfaction</l>
+               <l>of ſome great wrong done to this Nation.</l>
+               <l>
+                  <hi>Hi ho, the matter is great</hi>
+               </l>
+               <l>
+                  <hi>now Sea-men fight</hi>
+               </l>
+               <l>
+                  <hi>for their Birth-right.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
